@@ -1,0 +1,15 @@
+.centermail{
+    margin-left:120px ;
+  }
+  footer {
+    background: black;
+    color: white;
+    padding: 41px 40px;
+}
+#shadow{
+  outline: none;
+  box-shadow: 0px 16px 12px -7px black;
+  border-radius: 10px 10px;
+  padding: 2px 2px;
+  margin: 8px 8px;
+}
